@@ -1,0 +1,21 @@
+Definition : -
+
+stack is a data structure that stores items/objects in a LAST_IN_FIRST_OUT (LIFO) manner
+
+stack operations : -
+
+create
+push : - used to insert an element  at the top
+pop  : - used to remove an element from the top
+peek : - used to view the top element from the stack
+isEmpty : - it checks stack is empty or not
+isFull : -  while using arrays it is useful this method checks stack is empty or not
+deleteStack : - it deletes entire stack from the memory
+
+
+
+Stack creation :  array vs linkedList
+
+with arrays it is easy to implimentation but size limitation is there for arrays
+
+
